@@ -2,7 +2,7 @@
 &nbsp;
 [![](badge_google-scholar.svg)](https://scholar.google.com/citations?user=5kwR-IgAAAAJ)
 &nbsp;
-[![](badge_linkedin.svg)](https://jannikwolff.github.io/data/badge_linkedin.svg)
+[![](badge_linkedin.svg)](https://www.linkedin.com/in/jannik-wolff/)
 &nbsp;
 [![](badge_resume.svg)](https://jannikwolff.github.io/data/resume.pdf)
 
