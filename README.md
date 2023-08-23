@@ -6,5 +6,5 @@
 &nbsp;
 [![](badge_resume.svg)](https://jannikwolff.github.io/data/resume.pdf)
 
-I am a Ph.D. Candidate at [TU Berlin](https://www.tu.berlin/en/) advised by [Prof. Müller](https://scholar.google.de/citations?user=jplQac8AAAAJ&hl=en&oi=ao) and a research associate at [BIFOLD](https://bifold.berlin/).
+I am a Ph.D. Candidate at [TU Berlin's Machine Learning Group](https://web.ml.tu-berlin.de/) advised by [Prof. Müller](https://scholar.google.de/citations?user=jplQac8AAAAJ&hl=en&oi=ao) and a research associate at [BIFOLD](https://bifold.berlin/).
 My machine-learning research focuses on generative models for multiple modalities (such as vision and language) and probabilistic modeling.
